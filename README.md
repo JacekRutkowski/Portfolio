@@ -30,4 +30,6 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 * TSQL-Live - Tomasz Libera
 * Selenium and Python  - Udemy
 * Basics of automated tests in Selenium and Python - jaktestować.pl
+* GIT for Testers - jaktestowac.pl
+* XPath - jaktestowac.pl
 
