@@ -7,6 +7,7 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 * SQL
 * Github
 * JIRA with TestFlo
+* Test Link
 * MS Office - practical
 * BPMN 2.0. and ADONIS
 * HTML, CSS - intermediate
@@ -14,3 +15,8 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 * Softwere testing
 * Creating test cases
 * SCRUM
+
+# Courses
+
+Coders Lab IT School - Manula Tester
+Thematic Scope: ISTQB Foundation Level, JIRA, Test Link, XML, WebServices, SOAP, REST, SQL
