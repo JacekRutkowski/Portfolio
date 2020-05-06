@@ -21,8 +21,13 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 
 * Coders Lab IT School - Manual Tester
 
-Thematic Scope: ISTQB Foundation Level, JIRA, Test Link, XML, WebServices, SOAP, REST, SQL
+  Thematic Scope: ISTQB Foundation Level, JIRA, Test Link, XML, WebServices, SOAP, REST, SQL
 
 # Webinars
 
+* The Complete Oracle SQL Certification Course - Udemy
+* SQL 120 min - KursySQL.pl
+* TSQL-Live - Tomasz Libera
+* Selenium and Python  - Udemy
+* Basics of automated tests in Selenium and Python - jaktestować.pl
 
