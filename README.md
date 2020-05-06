@@ -40,3 +40,6 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 
 * [Test case codersguru](https://docs.google.com/spreadsheets/d/15e8MUwhGruuImaz7w4UMXNbUbcVaMtTEJd0XgQJ254U/edit?usp=sharing)
 
+# My webside made using wordpress
+
+* [Test-Ster](https://test-ster.pl)
