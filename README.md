@@ -32,4 +32,5 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 * Basics of automated tests in Selenium and Python - jaktestować.pl
 * GIT for Testers - jaktestowac.pl
 * XPath - jaktestowac.pl
+* Python Developer - Jet Brains Academy
 
