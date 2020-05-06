@@ -18,5 +18,6 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 
 # Courses
 
-Coders Lab IT School - Manula Tester
+Coders Lab IT School - Manual Tester
+
 Thematic Scope: ISTQB Foundation Level, JIRA, Test Link, XML, WebServices, SOAP, REST, SQL
