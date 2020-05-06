@@ -36,3 +36,7 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 * XPath - jaktestowac.pl
 * Python Developer - Jet Brains Academy
 
+# Test cese examples
+
+* [Test case codersguru](https://docs.google.com/spreadsheets/d/15e8MUwhGruuImaz7w4UMXNbUbcVaMtTEJd0XgQJ254U/edit?usp=sharing)
+
