@@ -9,6 +9,8 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 * JIRA with TestFlo
 * Test Link
 * MS Office - practical
+* PYCharm
+* Azure Data Studio
 * BPMN 2.0. and ADONIS
 * HTML, CSS - intermediate
 * DevTools
