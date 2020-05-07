@@ -25,6 +25,11 @@ My name is Jacek Rutkowski. I'm interested in software testing. On this page I w
 
   Thematic Scope: ISTQB Foundation Level, JIRA, Test Link, XML, WebServices, SOAP, REST, SQL
 
+# Certificates
+
+* Manual Tester no. 2389/2018
+* ISTQB Certified Tester Foundation Level No. 10543/FLCT/2018
+
 # Webinars
 
 * The Complete Oracle SQL Certification Course - Udemy
